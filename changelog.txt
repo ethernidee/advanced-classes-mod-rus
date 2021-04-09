@@ -1,74 +1,77 @@
 ﻿Журнал изменений
 
 ***************************************************************************************************************************************************************
-Version 1.06 (18.März 2021)
+Версия 1.06 (18 Марта 2021)
 
-When updating from 1.056 please delete old version before installing 1.06
+!При обновлении с v1.056 удалите старую версию перед установкой 1.06!
 
-New:
-+ Reworked Wizards Fortune Set, it is now called The Adventurer's Fidelity 
- (Full Set Bonus: Increases the chance to perform {Luck-strikes} in combat by removing the Luck cap at 15% (endless scaling). Allows finding all Class Sets, regardless of your current class)
-+ Reworked Champions Honor Set
- (Full Set: 50% chance to get a random Warmachine upgrade for free at level up, no secondary skill requirements)
-+ Reworked the three EE artifacts and set "Vision of the Eagle"
- (Full Set: Learn spells from your opponent in combat without the skill Eagle Eye)
-+ New window for Goblin Support WM-upgrade
-+ Emblem of Cognissance now grants immunity vs Artillery and Eagle Eye damage prior to fights
-+ Learning spells with Eagle Eye now also gives +1 Spell Power
-+ Watchmen grants +10% MR
-+ Replaced three (useless) Wog artifacts: Magic Wand +20 Magic Strength, Summoning Scroll +1000HP for summons, Ballista Arrow +1 additional shot for ballista
-+ Crest of Valor: Increased Henchman and Commander Power +15%
-+ Game options are now saved when starting a new game
-+ made a little window that shows your resources income/comparison to the previous day, when clicking on Kingdom Overview
-+ Expansion heroes have a new and better specialty description
-+ Added new advanced classes hero portraits and replaced some old ones 
-+ when right-clicking on war machines in hero window you now see bought/available upgrades for your WMs
+Новое:
++ Переработан сборник "Удача Мудреца": теперь называется "Верность Авантюриста";
+(Бонус полного набора: увеличивает шанс нанести {Удачный удар} в бою, сняв ограничение Удачи в 15% (бесконечное увеличение). Позволяет находить артефакты из наборов всех классов, независимо от вашего текущего класса);
++ Переработан комплект "Чести Чемпиона"
+(Полный набор: 50% шанс получить случайное улучшение боевой машины бесплатно при повышении уровня, дополнительных навыков не требуется);
++ Переработаны три артефакта Орлиного Глаза и сборник «Видение орла»
+(Полный набор: позволяет выучить заклинания своего противника в бою без навыка Орлиный глаз);
++ Новое окно для улучшения Боевых Машин;
++ "Символ Знаний" теперь дает иммунитет к урону от артиллерии и волшебной артиллерии (от навыка Орлиный Глаз) перед боем;
++ Изучение заклинаний с Орлиным глазом теперь также дает +1 к силе заклинаний;
++ Бесстрашный Хранитель теперь даёт + 10% Сопротивления к магии;
++ Заменены три (бесполезных) Wog-артефакта: Волшебная Палочка увеличивает Магический Потенциал на +20, Свиток Призыва даёт + 1000 ОЗ для заклинаний призыва, Стрела Баллисты даёт +1 дополнительный выстрел для баллисты;
++ Герб Доблести: увеличение силы оруженосца и командира на + 15%;
++ Параметры игры теперь сохраняются при запуске новой игры;
++ Сделано небольшое окошко, которое показывает доход / сравнение ваших ресурсов с предыдущим днем ​​при нажатии на Обзор Королевства;
++ У усиленных героев теперь новое и улучшенное описание специальности;
++ Добавлены новые портреты героев продвинутых классов и заменены некоторые старые;
++ при щелчке правой кнопкой мыши по боевым машинам в окне героя теперь вы видите купленные / доступные улучшения для ваших Боевых Машин;
 
-Balance:
-- changed Magic Pierce I/II from 20/30% to 15/25%
-- increased effectiveness of Magic Resistance artifacts all by +5% to compensate for the Magic Pierce from Mage-Class
-- All Mana Artifacts increased by +2 reg  (4,6,8)
-- Mysticism now regenerates (6,10,15,20,30) spell points per day
-- changed value for M/GM Resistance from 23/25 to 25/30, to compensate for Magic Pierce
-- Luck skill now gives only +30%damage at GM instead of +50%
-- the amount of creatures the Grandmaster Adventurer gets is now limited/capped
-- slightly increased the chance for Spell Power instead of Knowledge at level up from mage class 
-- Ballistics increased max damage of shooters now by +1/1/2/2/3 instead of +1/1/1/1/2
+Баланс:
+- Поток Магии / Чароплетение изменен с 20/15% на 30/25%;
+- увеличена эффективность всех артефактов с сопротивлением магии на + 5%, чтобы компенсировать Поток Магии от класса Маг;
+- Все артефакты, восстанавливающие ману, увеличивают силу на +2 (4,6,8);
+- Мистицизм теперь регенерирует (6,10,15,20,30) очков заклинаний в день;
+- изменено значение М/ГМ Сопротивления с 23/25 на 25/30, чтобы компенсировать Поток Магии;
+- Навык Удачи ГМ уровня теперь дает только + 30% урона вместо + 50%;
+- количество существ, которые получает Грандмастер Странник, теперь ограничено;
+- немного увеличен шанс на Силу заклинаний вместо Знаний при повышении уровня от класса Маг;
+- Баллистика теперь увеличила максимальный урон стрелков на +1/1/2/2/3 вместо +1/1/1/1/2;
 
-Fixes:
-- fixed slightly wrong calculation for M/GM Armorer and Resistance in battle between two heroes
-- fixed Battle-mage can now learn M Artillery
-- fixed wacky calculation of negative morale
-- fix Added Darzogs Set name to Dead Mans Boots
-- fix in class points screen mixed Artillery/Ballistic icon
+Исправления:
+- исправлен немного неправильный расчет для М/ГМ "Защита" и "Сопротивление" в битве между двумя героями;
+- Исправлен класс Боевой Маг: теперь может изучать M-артиллерию;
+- исправлен дурацкий расчет отрицательной морали;
+- исправлено Добавленное название набора Дарзога в Сапоги Мертвеца;
+- исправлены перепутанные значки артиллерии / баллистики на экране очков класса;
 
-Misc:
-- New script for Necromancy that limits the number of skeletons you can raise after combat (put in disabled folder)
-- banned WoG option for 2 secret skills
-- Scouting event to get spells now considers Wisdom level
-- Scouting event that gives creatures made more effective
-- Changed name of Elemental set to Elemental Unity
-- Changed name of Magic set to The Wizard's Knowledge
-- Removed the tag "Set Piece" from the description of all artifacts which are part of a set (looks cleaner, don't know why I did it in the first place...)
+Разное:
+- Новый скрипт для Некромантии, ограничивающий количество скелетов, которые вы можете поднять после боя (по умолчанию отключны, помещены в папку "Disabled");
+- забанена WoG-опция на скрытые навыки;
+- Событие разведки для получения заклинаний теперь учитывает уровень мудрости;
+- Событие разведки, которое делает существ более эффективными;
+- Изменено название набора "Элементальный" на "Элементальное Единство";
+- Изменено название набора "Магический" на "Знание Волшебника";
+- Убран тег "Часть сэта" из описания всех артефактов, которые являются частью набора (выглядит чище, не знаю, зачем я это вообще сделал ...);
 
-Difficulty Mod:
-- enabled the Dif option to add extra abilities to enemies stacks (experimental)
-- improved the AI artifact equipment mod, now AI will not equip double items 
-- improved reward chance for Battle reward, if the chance is bigger 55% you have a small chance to learn a spell if the chance is bigger 65% you have a small chance to find an artifact
-- Monster now will not be set to aggressive automatically, instead, the aggression of all monsters on the map start will be increased by 2 or 3 points, making it less likely to get joiners
-- added a check to prevent AI heroes' primary stats overflow. Now AI heroes will never have more than 99 of any skill point
-- lowered the chance for the Battle Commander to appear by 4%
-- the Battle Commander will no longer spawn in creature banks
-- lowered the creature growth in creature banks for Hard/Extreme/Insane setting
-- changed triggers for Battle Replay to !?FU(OnBattleReplay) (requires newest Battle Replay Plugin)
-- some more small corrections in Dif Mod
+Мод на продвинутые сложности:
+- включена опция Мода на добавление дополнительных способностей к стекам врагов (экспериментально);
+- улучшен мод экипировки артефакта ИИ, теперь ИИ не будет экипировать одинаковые предметы;
+- улучшен шанс награды за битву, если шанс больше 55%, у вас есть небольшой шанс выучить заклинание, если шанс больше 65%, у вас есть небольшой шанс найти артефакт;
+- Монстры теперь не будут автоматически настроены
+агрессивно, вместо этого агрессия всех монстров на стартовой карте будет увеличена на 2 или 3 пункта, что снижает вероятность их присоединения;
+- добавлена ​​проверка для предотвращения переполнения первичных навыков ИИ героев. Теперь у ИИ-героев никогда не будет больше 99 очков навыков;
+- уменьшена вероятность появления боевого командира на 4%;
+- Боевой Командир больше не будет появляться в банках существ;
+- уменьшен рост существ в банках существ для настроек Тяжело / Эксперт / Безумно;
+- изменены триггеры для BattleReplay на !?FU(OnBattleReplay) (требуется новейший плагин Battle Replay);
+- еще несколько мелких исправлений в Моде на продвинутые сложности;
 
-
+- обновлены pac файлы из мода Dif
+- теперь заклинатели показывают правильное количество заклинаний в бою и в описании магических умений (кредиты Гавайи)
+- Значок Commander Death Stare заменен на яд (кредиты Archer30)
 Версия 1.0561
 
-- updated the pac files from Dif mod
-- now casters show correct amount of casts in battle and in magic skill description (credits Hawaiing)
-- Commander Death Stare icon replaced with poison (credits Archer30)
+- обновлены .pac файлы из мода на Дополнительные Сложности
+- еперь заклинатели показывают правильное количество заклинаний в бою и в описании магических умений (credits Hawaiing)
+- Картинка с навыком "Смертельный взгляд" заменена на "ЯД" (credits Archer30)
 
 Версия 1.056
 
