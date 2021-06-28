@@ -1,7 +1,7 @@
 ﻿
-Advanced Classes Mod 1.07
+Advanced Classes Mod 1.0702
 
-Мод создан Perry R, для игры "Герои Меча и Магии 3" ERA 3
+Мод создан Perry R, для игры "Герои Меча и Магии 3" ERA 3.81
 при содействии AlfWithCake, anti-victor, daemon_n и Sandris
 _________________________________________________
  

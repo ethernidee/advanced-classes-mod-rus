@@ -1,8 +1,8 @@
 {
 	"caption": {
 		"Cn_Simp": "",
-		"en_US": "Advanced Classes Mod Rus",
-		"ru_RU": "Advanced Classes Mod Rus"
+		"en_US": "Advanced Classes Mod Rus 1.07",
+		"ru_RU": "Advanced Classes Mod 1.07 Rus"
 	},
 	"description": {
 		"full": {
@@ -22,7 +22,7 @@
 		"file": "Iv.ico",
 		"index": 0
 	},
-	"mod_version": "1.07",
+	"mod_version": "1.0702",
 	"priority": 3,
 	"compatibility": {
 		"class": "default",
