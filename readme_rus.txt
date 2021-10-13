@@ -1,7 +1,9 @@
-﻿
-Advanced Classes Mod 1.0702
+﻿ЭТО ЛИШЬ МОД РУСИФИКАЦИИ
+ОН ТРЕБУЕТ ОРИГИНАЛЬНЫЙ МОД "Advanced Classes Mod" ДЛЯ РАБОТЫ
 
-Мод создан Perry R, для игры "Герои Меча и Магии 3" ERA 3.81
+Advanced Classes Mod 1.072
+
+Мод создан Perry R, для игры "Герои Меча и Магии 3" ERA 3.88
 при содействии AlfWithCake, anti-victor, daemon_n и Sandris
 _________________________________________________
  
